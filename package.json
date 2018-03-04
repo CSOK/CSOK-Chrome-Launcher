@@ -1,0 +1,14 @@
+{
+  "name": "csk_launcher",
+  "version": "1.0.0",
+  "description": "Computer Soceity of Kimathi Launcher running on Google Chrome Browser",
+  "main": "manifest.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CSK"
+  ],
+  "author": "brianokinyi",
+  "license": "MIT"
+}
